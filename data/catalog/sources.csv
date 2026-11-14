@@ -1,0 +1,7 @@
+source_id,reference,url,consulte_le,utilise_pour
+SRC_ECOCROP,"FAO EcoCrop database (copie CSV EcoCrop_DB.csv, OpenCLIM)",https://github.com/OpenCLIM/ecocrop,2026-11-13,"55 colonnes d'origine : plages T, pluie, pH, sol, cycle, famille"
+SRC_FAO56_T11,"Allen R.G. et al. (1998) FAO Irrigation and Drainage Paper 56, Table 11 (durees des stades)",https://www.fao.org/4/x0490e/x0490e0b.htm,2026-11-14,"l_ini, l_dev, l_mid, l_late, region, mois de plantation"
+SRC_FAO56_T12,"Allen R.G. et al. (1998) FAO-56, Table 12 (Kc simples)",https://www.fao.org/4/x0490e/x0490e0b.htm,2026-11-14,"kc_ini, kc_mid, kc_end (+ plages)"
+SRC_FAO56_T22,"Allen R.G. et al. (1998) FAO-56, Table 22 (Zr, p)",https://www.fao.org/3/x0490e/x0490e0e.htm,2026-11-14,"zr_min_m, zr_max_m, p_fao56"
+SRC_AQUACROP,"AquaCrop-OSPy v3.1.0, aquacrop/entities/crops/crop_params.py (fichiers cultures par defaut FAO AquaCrop)",https://pypi.org/project/aquacrop/3.1.0/,2026-11-14,"t_base, t_upper, gdd_emergence, gdd_debut_formation_rendement, gdd_maturite"
+SRC_FAO_CAL_TN,"FAO Crop Calendar, Tunisie (API api-cropcalendar.apps.fao.org/api/v1/cropCalendar?countries=TN), mise a jour 26/02/2021",https://cropcalendar.apps.fao.org/#/home?id=TN,2026-11-14,"semis/recolte par zone agro-ecologique et conduite"
