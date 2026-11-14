@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+scipy
+earthengine-api
+pymysql
+cryptography
+pytest
