@@ -1,0 +1,33 @@
+﻿Date,nom_ar,nom_fr,unite,valeur
+2026-09-22 03:00:00,Vitesse du vent,Vitesse du vent,m/s,1.47
+2026-09-22 03:00:00,Direction du vent,Direction du vent,Deg,309.9
+2026-09-22 03:00:00,Température,Température,°C,22.5
+2026-09-22 03:00:00,Humidité relative,Humidité relative,%,81.6
+2026-09-22 03:00:00,Point de Rosée,Point de Rosée,°C,19.2
+2026-09-22 03:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2026-09-22 03:00:00,Pression atmosphérique,Pression atmosphérique,mm/j,1016.4
+2026-09-22 03:00:00,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,4.19
+2026-09-22 02:00:00,Vitesse du vent,Vitesse du vent,m/s,2.02
+2026-09-22 02:00:00,Direction du vent,Direction du vent,Deg,310.8
+2026-09-22 02:00:00,Température,Température,°C,22.7
+2026-09-22 02:00:00,Humidité relative,Humidité relative,%,81.5
+2026-09-22 02:00:00,Point de Rosée,Point de Rosée,°C,19.3
+2026-09-22 02:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2026-09-22 02:00:00,Pression atmosphérique,Pression atmosphérique,mm/j,1016.6
+2026-09-22 02:00:00,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,4.19
+2026-09-22 01:00:00,Vitesse du vent,Vitesse du vent,m/s,0.67
+2026-09-22 01:00:00,Direction du vent,Direction du vent,Deg,276.5
+2026-09-22 01:00:00,Température,Température,°C,23.0
+2026-09-22 01:00:00,Humidité relative,Humidité relative,%,80.5
+2026-09-22 01:00:00,Point de Rosée,Point de Rosée,°C,19.4
+2026-09-22 01:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2026-09-22 01:00:00,Pression atmosphérique,Pression atmosphérique,mm/j,1016.9
+2026-09-22 01:00:00,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,4.19
+2026-09-22 00:00:00,Vitesse du vent,Vitesse du vent,m/s,0.75
+2026-09-22 00:00:00,Direction du vent,Direction du vent,Deg,290.8
+2026-09-22 00:00:00,Température,Température,°C,24.0
+2026-09-22 00:00:00,Humidité relative,Humidité relative,%,76.9
+2026-09-22 00:00:00,Point de Rosée,Point de Rosée,°C,19.7
+2026-09-22 00:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2026-09-22 00:00:00,Pression atmosphérique,Pression atmosphérique,mm/j,1017.4
+2026-09-22 00:00:00,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,1.49

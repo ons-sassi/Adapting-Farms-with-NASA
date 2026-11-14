@@ -1,0 +1,49 @@
+﻿Date,nom_ar,nom_fr,unite,valeur
+2026-07-14 18:00:00,Direction du vent,Direction du vent,Deg,5.7
+2026-07-14 18:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,950.8
+2026-07-14 18:00:00,Température,Température,°c,41.4
+2026-07-14 18:00:00,Point de Rosée,Point de Rosée,°c,-1.2
+2026-07-14 18:00:00,Humidité relative,Humidité relative,%,7.0
+2026-07-14 18:00:00,Vitesse du vent,Vitesse du vent,m/s,5.87
+2026-07-14 16:00:00,Température,Température,°c,43.1
+2026-07-14 16:00:00,Vitesse du vent,Vitesse du vent,m/s,2.56
+2026-07-14 16:00:00,Point de Rosée,Point de Rosée,°c,-1.6
+2026-07-14 16:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,950.4
+2026-07-14 16:00:00,Direction du vent,Direction du vent,Deg,96.0
+2026-07-14 16:00:00,Humidité relative,Humidité relative,%,6.2
+2026-07-14 14:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,951.1
+2026-07-14 14:00:00,Humidité relative,Humidité relative,%,5.2
+2026-07-14 14:00:00,Point de Rosée,Point de Rosée,°c,-4.0
+2026-07-14 14:00:00,Vitesse du vent,Vitesse du vent,m/s,2.47
+2026-07-14 14:00:00,Température,Température,°c,43.1
+2026-07-14 14:00:00,Direction du vent,Direction du vent,Deg,286.1
+2026-07-14 12:00:00,Température,Température,°c,41.4
+2026-07-14 12:00:00,Vitesse du vent,Vitesse du vent,m/s,0.56
+2026-07-14 12:00:00,Humidité relative,Humidité relative,%,8.1
+2026-07-14 12:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,952.0
+2026-07-14 12:00:00,Point de Rosée,Point de Rosée,°c,0.7
+2026-07-14 12:00:00,Direction du vent,Direction du vent,Deg,127.2
+2026-07-14 10:00:00,Température,Température,°c,35.6
+2026-07-14 10:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,952.6
+2026-07-14 10:00:00,Point de Rosée,Point de Rosée,°c,12.5
+2026-07-14 10:00:00,Vitesse du vent,Vitesse du vent,m/s,1.38
+2026-07-14 10:00:00,Direction du vent,Direction du vent,Deg,300.7
+2026-07-14 10:00:00,Humidité relative,Humidité relative,%,24.9
+2026-07-14 08:00:00,Direction du vent,Direction du vent,Deg,142.1
+2026-07-14 08:00:00,Température,Température,°c,30.8
+2026-07-14 08:00:00,Vitesse du vent,Vitesse du vent,m/s,0.22
+2026-07-14 08:00:00,Point de Rosée,Point de Rosée,°c,13.8
+2026-07-14 08:00:00,Humidité relative,Humidité relative,%,35.5
+2026-07-14 08:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,952.5
+2026-07-14 06:00:00,Point de Rosée,Point de Rosée,°c,12.8
+2026-07-14 06:00:00,Vitesse du vent,Vitesse du vent,m/s,2.18
+2026-07-14 06:00:00,Humidité relative,Humidité relative,%,57.2
+2026-07-14 06:00:00,Direction du vent,Direction du vent,Deg,153.2
+2026-07-14 06:00:00,Température,Température,°c,21.6
+2026-07-14 06:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,952.0
+2026-07-14 04:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,952.1
+2026-07-14 04:00:00,Direction du vent,Direction du vent,Deg,150.9
+2026-07-14 04:00:00,Vitesse du vent,Vitesse du vent,m/s,1.14
+2026-07-14 04:00:00,Point de Rosée,Point de Rosée,°c,13.1
+2026-07-14 04:00:00,Humidité relative,Humidité relative,%,56.2
+2026-07-14 04:00:00,Température,Température,°c,22.3
