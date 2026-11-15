@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.log
+database/backups/*
+!database/backups/.gitkeep
+\n# Collected external agricultural datasets\ndata/external_agri/\n
