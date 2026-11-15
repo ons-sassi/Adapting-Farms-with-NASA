@@ -1,0 +1,6 @@
+# Module chatbot (backend). Ajouter seulement ce qui manque à requirements.txt.
+requests            # appel ElevenLabs (étape 3)
+openai>=1.0         # seulement si groq_client.py du cœur ne l'utilise pas déjà
+python-dotenv
+# Optionnel : graphique du calculateur d'impact (make_figure)
+plotly
