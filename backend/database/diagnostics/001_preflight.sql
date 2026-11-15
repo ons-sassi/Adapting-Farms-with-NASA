@@ -1,0 +1,3 @@
+-- Emplacement réservé au diagnostic préflight.
+-- Ajouter ici les requêtes adaptées au schéma réellement installé.
+-- Ne pas exécuter de correction destructive depuis ce fichier.

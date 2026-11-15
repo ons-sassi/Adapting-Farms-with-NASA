@@ -1,0 +1,430 @@
+[
+  [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": 100,
+      "total": 26,
+      "sourceid": "2",
+      "lastupdated": "2026-11-11"
+    },
+    [
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2024",
+        "value": 1891.1,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2023",
+        "value": 1300.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2022",
+        "value": 1640.1,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2021",
+        "value": 1451.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2020",
+        "value": 1324.4,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2019",
+        "value": 1946.8,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2018",
+        "value": 1223.4,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2017",
+        "value": 1304,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2016",
+        "value": 1541.2,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2015",
+        "value": 1102.7,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2014",
+        "value": 1805.8,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2013",
+        "value": 1136.2,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2012",
+        "value": 1674.3,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2011",
+        "value": 1710.8,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2010",
+        "value": 1694.1,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2009",
+        "value": 1877.6,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2008",
+        "value": 1467.3,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2007",
+        "value": 1622.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2006",
+        "value": 1256.1,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2005",
+        "value": 1442.8,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2004",
+        "value": 1309.6,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2003",
+        "value": 1515.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2002",
+        "value": 1233.7,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2001",
+        "value": 1715.3,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "AG.YLD.CREL.KG",
+          "value": "Cereal yield (kg per hectare)"
+        },
+        "country": {
+          "id": "TN",
+          "value": "Tunisia"
+        },
+        "countryiso3code": "TUN",
+        "date": "2000",
+        "value": 984.5,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  ]
+]

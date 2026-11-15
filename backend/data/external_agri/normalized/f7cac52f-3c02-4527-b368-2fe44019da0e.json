@@ -1,0 +1,159 @@
+{
+  "dataset_id": "f7cac52f-3c02-4527-b368-2fe44019da0e",
+  "source_id": "nasa_power_point",
+  "source_name": "NASA POWER - météorologie au point",
+  "provider": "NASA POWER",
+  "source_url": "https://power.larc.nasa.gov/api/temporal/daily/point",
+  "request_urls": [
+    "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M%2CPRECTOTCORR%2CRH2M%2CALLSKY_SFC_SW_DWN%2CWS2M&community=AG&longitude=10.2&latitude=36.8&start=20240101&end=20240103&format=JSON"
+  ],
+  "retrieved_at": "2026-11-15T13:27:23.294753+00:00",
+  "requested_parameters": {
+    "parameters": "T2M,PRECTOTCORR,RH2M,ALLSKY_SFC_SW_DWN,WS2M",
+    "community": "AG",
+    "longitude": 10.2,
+    "latitude": 36.8,
+    "start": "20240101",
+    "end": "20240103"
+  },
+  "record_count": 3,
+  "quality_status": "needs_validation",
+  "geographic_scope": "Coordonnées ponctuelles",
+  "temporal_scope": "journalière",
+  "errors": [],
+  "provenance": {
+    "source_id": "nasa_power_point",
+    "provider": "NASA POWER",
+    "source_url": "https://power.larc.nasa.gov/api/temporal/daily/point",
+    "retrieved_at": "2026-11-15T13:27:23.294753+00:00",
+    "license": "NASA POWER; consulter les conditions et l'attribution de la documentation du service.",
+    "retrieval_method": "json_api",
+    "request_urls": [
+      "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M%2CPRECTOTCORR%2CRH2M%2CALLSKY_SFC_SW_DWN%2CWS2M&community=AG&longitude=10.2&latitude=36.8&start=20240101&end=20240103&format=JSON"
+    ]
+  },
+  "quality_evidence": {
+    "record_count": 3,
+    "records_with_date": 3,
+    "valid_dates": 3,
+    "invalid_dates": 0,
+    "records_with_coordinates": 3,
+    "valid_coordinates": 3,
+    "invalid_coordinates": 0,
+    "records_with_units": 3,
+    "data_semantics": [
+      "modeled_estimate"
+    ],
+    "warnings": [],
+    "raw_response_preserved_separately": true
+  },
+  "data_notice": "Données externes brutes ou harmonisées minimalement; vérifier unité, définition, couverture, date et licence avant usage agronomique.",
+  "records": [
+    {
+      "date": "2024-01-01",
+      "coordinates": {
+        "latitude": 36.8,
+        "longitude": 10.2
+      },
+      "values": {
+        "T2M": 13.04,
+        "PRECTOTCORR": 1.03,
+        "RH2M": 75.25,
+        "ALLSKY_SFC_SW_DWN": 8.22,
+        "WS2M": 1.86
+      },
+      "units": {
+        "T2M": "C",
+        "PRECTOTCORR": "mm/day",
+        "RH2M": "%",
+        "ALLSKY_SFC_SW_DWN": "MJ/m^2/day",
+        "WS2M": "m/s"
+      },
+      "data_semantics": "modeled_estimate",
+      "quality_evidence": {
+        "provider": "NASA POWER",
+        "missing_parameters": [],
+        "elevation_m": 54.49
+      },
+      "provenance": {
+        "source_id": "nasa_power_point",
+        "provider": "NASA POWER",
+        "source_url": "https://power.larc.nasa.gov/api/temporal/daily/point",
+        "retrieved_at": "2026-11-15T13:27:23.294753+00:00",
+        "license": "NASA POWER; consulter les conditions et l'attribution de la documentation du service.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "date": "2024-01-02",
+      "coordinates": {
+        "latitude": 36.8,
+        "longitude": 10.2
+      },
+      "values": {
+        "T2M": 12.87,
+        "PRECTOTCORR": 1.02,
+        "RH2M": 86.04,
+        "ALLSKY_SFC_SW_DWN": 9.48,
+        "WS2M": 2.6
+      },
+      "units": {
+        "T2M": "C",
+        "PRECTOTCORR": "mm/day",
+        "RH2M": "%",
+        "ALLSKY_SFC_SW_DWN": "MJ/m^2/day",
+        "WS2M": "m/s"
+      },
+      "data_semantics": "modeled_estimate",
+      "quality_evidence": {
+        "provider": "NASA POWER",
+        "missing_parameters": [],
+        "elevation_m": 54.49
+      },
+      "provenance": {
+        "source_id": "nasa_power_point",
+        "provider": "NASA POWER",
+        "source_url": "https://power.larc.nasa.gov/api/temporal/daily/point",
+        "retrieved_at": "2026-11-15T13:27:23.294753+00:00",
+        "license": "NASA POWER; consulter les conditions et l'attribution de la documentation du service.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "date": "2024-01-03",
+      "coordinates": {
+        "latitude": 36.8,
+        "longitude": 10.2
+      },
+      "values": {
+        "T2M": 12.25,
+        "PRECTOTCORR": 0.0,
+        "RH2M": 75.53,
+        "ALLSKY_SFC_SW_DWN": 9.65,
+        "WS2M": 2.87
+      },
+      "units": {
+        "T2M": "C",
+        "PRECTOTCORR": "mm/day",
+        "RH2M": "%",
+        "ALLSKY_SFC_SW_DWN": "MJ/m^2/day",
+        "WS2M": "m/s"
+      },
+      "data_semantics": "modeled_estimate",
+      "quality_evidence": {
+        "provider": "NASA POWER",
+        "missing_parameters": [],
+        "elevation_m": 54.49
+      },
+      "provenance": {
+        "source_id": "nasa_power_point",
+        "provider": "NASA POWER",
+        "source_url": "https://power.larc.nasa.gov/api/temporal/daily/point",
+        "retrieved_at": "2026-11-15T13:27:23.294753+00:00",
+        "license": "NASA POWER; consulter les conditions et l'attribution de la documentation du service.",
+        "retrieval_method": "json_api"
+      }
+    }
+  ],
+  "content_fingerprint": "7d621f2ab49eceea4832a244e6bd1977de7fb8e58f09f2dd17fecf41dda237eb"
+}

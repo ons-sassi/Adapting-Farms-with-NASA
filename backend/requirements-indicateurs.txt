@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+requests
+pymysql
+earthengine-api
