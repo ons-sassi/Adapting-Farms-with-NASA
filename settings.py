@@ -20,6 +20,10 @@ class Settings(BaseSettings):
     soilgrids_base_url: str = "https://rest.isric.org/soilgrids/v2.0/properties/query"
     http_timeout_seconds: float = 30.0
 
+    # Extraction PDF/image -> JSON (Gemini)
+    gemini_api_key: str | None = None
+    extractor_model: str = "gemini-3.6-flash"
+
     climate_start_year: int = 2015
     climate_end_year: int = 2024
 
