@@ -1,0 +1,703 @@
+{
+  "dataset_id": "b1492672-becb-4365-b560-486e10134b02",
+  "source_id": "world_bank_tunisia_agriculture",
+  "source_name": "World Bank - indicateurs agricoles Tunisie",
+  "provider": "World Bank",
+  "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+  "request_urls": [
+    "https://api.worldbank.org/v2/country/TUN/indicator/AG.YLD.CREL.KG?format=json&per_page=100&date=2000%3A2026"
+  ],
+  "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+  "requested_parameters": {
+    "indicators": [
+      "AG.YLD.CREL.KG"
+    ]
+  },
+  "record_count": 25,
+  "quality_status": "needs_validation",
+  "geographic_scope": "Tunisie",
+  "temporal_scope": "annuelle",
+  "errors": [],
+  "provenance": {
+    "source_id": "world_bank_tunisia_agriculture",
+    "provider": "World Bank",
+    "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+    "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+    "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+    "retrieval_method": "json_api",
+    "request_urls": [
+      "https://api.worldbank.org/v2/country/TUN/indicator/AG.YLD.CREL.KG?format=json&per_page=100&date=2000%3A2026"
+    ]
+  },
+  "quality_evidence": {
+    "record_count": 25,
+    "records_with_date": 25,
+    "valid_dates": 25,
+    "invalid_dates": 0,
+    "records_with_coordinates": 0,
+    "valid_coordinates": 0,
+    "invalid_coordinates": 0,
+    "records_with_units": 0,
+    "data_semantics": [
+      "national_statistic"
+    ],
+    "warnings": [
+      "Aucune unité n'est présente; vérifier avant interprétation agronomique."
+    ],
+    "raw_response_preserved_separately": true
+  },
+  "data_notice": "Données externes brutes ou harmonisées minimalement; vérifier unité, définition, couverture, date et licence avant usage agronomique.",
+  "records": [
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2024",
+      "year": "2024",
+      "value": 1891.1,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2023",
+      "year": "2023",
+      "value": 1300.5,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2022",
+      "year": "2022",
+      "value": 1640.1,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2021",
+      "year": "2021",
+      "value": 1451.5,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2020",
+      "year": "2020",
+      "value": 1324.4,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2019",
+      "year": "2019",
+      "value": 1946.8,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2018",
+      "year": "2018",
+      "value": 1223.4,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2017",
+      "year": "2017",
+      "value": 1304,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2016",
+      "year": "2016",
+      "value": 1541.2,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2015",
+      "year": "2015",
+      "value": 1102.7,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2014",
+      "year": "2014",
+      "value": 1805.8,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2013",
+      "year": "2013",
+      "value": 1136.2,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2012",
+      "year": "2012",
+      "value": 1674.3,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2011",
+      "year": "2011",
+      "value": 1710.8,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2010",
+      "year": "2010",
+      "value": 1694.1,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2009",
+      "year": "2009",
+      "value": 1877.6,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2008",
+      "year": "2008",
+      "value": 1467.3,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2007",
+      "year": "2007",
+      "value": 1622.5,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2006",
+      "year": "2006",
+      "value": 1256.1,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2005",
+      "year": "2005",
+      "value": 1442.8,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2004",
+      "year": "2004",
+      "value": 1309.6,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2003",
+      "year": "2003",
+      "value": 1515.5,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2002",
+      "year": "2002",
+      "value": 1233.7,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2001",
+      "year": "2001",
+      "value": 1715.3,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    },
+    {
+      "indicator_code": "AG.YLD.CREL.KG",
+      "indicator_name": "Cereal yield (kg per hectare)",
+      "country": "Tunisia",
+      "date": "2000",
+      "year": "2000",
+      "value": 984.5,
+      "unit": null,
+      "geography": {
+        "country_code": "TUN"
+      },
+      "data_semantics": "national_statistic",
+      "quality_evidence": {
+        "provider_value_present": true,
+        "source_record_id": "TUN"
+      },
+      "source_record_id": "TUN",
+      "provenance": {
+        "source_id": "world_bank_tunisia_agriculture",
+        "provider": "World Bank",
+        "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/{indicator}",
+        "retrieved_at": "2026-11-15T13:27:45.160445+00:00",
+        "license": "World Bank open data; vérifier les conditions de réutilisation de chaque série.",
+        "retrieval_method": "json_api"
+      }
+    }
+  ],
+  "content_fingerprint": "c856bd8fc7103eb989ed9ce4703a895c54cff95b16ceaeeba199349633440173"
+}

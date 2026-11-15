@@ -1,0 +1,2 @@
+-- Le init.sql original n'a pas été trouvé dans les fichiers montés.
+-- Copiez ici le fichier init.sql de votre projet avant toute installation.

@@ -1,0 +1,23 @@
+{
+  "_warning": "REGLES SIMPLES ET TRANSPARENTES, a valider/modifier par l'agronome. Les poids sont des heuristiques, pas des mesures. Les familles botaniques sont des faits ; les poids ne le sont pas.",
+  "families": {
+    "wheat": "cereal", "barley": "cereal",
+    "fava": "legume", "chickpea": "legume", "cowpea": "legume",
+    "tomato": "solanaceae", "pepper": "solanaceae", "eggplant": "solanaceae",
+    "cabbage": "brassica", "broccoli": "brassica",
+    "squash": "cucurbit", "watermelon": "cucurbit", "melon": "cucurbit",
+    "carrot": "apiaceae", "parsley": "apiaceae",
+    "spinach": "amaranthaceae", "chard": "amaranthaceae",
+    "artichoke": "perennial", "olive": "perennial", "orange": "perennial",
+    "prickly_pear": "perennial", "deglet_nour": "perennial"
+  },
+  "weights": {
+    "same_crop_again": -3,
+    "same_family_again": -2,
+    "legume_after_cereal": 2,
+    "cereal_after_legume": 2,
+    "water_limited_bonus_per_100mm_less": 1
+  },
+  "baseline_rotation": ["wheat", "wheat"],
+  "next_crop_after": {"legume": "wheat"}
+}

@@ -1,0 +1,190 @@
+{
+  "_warning": "EXEMPLE SEULEMENT. Liste à valider par ton agronome (cultures autorisées, mois de semis, besoins en eau, notes par région). Les cultures ajoutées depuis le vocabulaire de démo ont status=to_verify et AUCUN mois de semis : à remplir par l'agronome.",
+  "crops": [
+    {
+      "id": "wheat",
+      "derja": "قمح",
+      "fr": "blé",
+      "sowing_months": [
+        10,
+        11,
+        12
+      ],
+      "notes": ""
+    },
+    {
+      "id": "barley",
+      "derja": "شعير",
+      "fr": "orge",
+      "sowing_months": [
+        10,
+        11,
+        12
+      ],
+      "notes": ""
+    },
+    {
+      "id": "fava",
+      "derja": "فول",
+      "fr": "fève",
+      "sowing_months": [
+        10,
+        11,
+        12
+      ],
+      "notes": ""
+    },
+    {
+      "id": "chickpea",
+      "derja": "حمص",
+      "fr": "pois chiche",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "tomato",
+      "derja": "طماطم",
+      "fr": "tomate",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "pepper",
+      "derja": "فلفل",
+      "fr": "piment / poivron",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "watermelon",
+      "derja": "دلاع",
+      "fr": "pastèque",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "melon",
+      "derja": "بطيخ",
+      "fr": "melon (ou pastèque selon la région)",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "cabbage",
+      "derja": "كرنب",
+      "fr": "chou",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "squash",
+      "derja": "قرع",
+      "fr": "courge",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "cowpea",
+      "derja": "لوبيا",
+      "fr": "haricot / niébé",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "eggplant",
+      "derja": "باتنجان",
+      "fr": "aubergine",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "parsley",
+      "derja": "معدنوس",
+      "fr": "persil",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "spinach",
+      "derja": "سبناخ",
+      "fr": "épinard",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "chard",
+      "derja": "سلق",
+      "fr": "blette",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "broccoli",
+      "derja": "بروكلو",
+      "fr": "brocoli",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "carrot",
+      "derja": "سفنارية",
+      "fr": "carotte",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "artichoke",
+      "derja": "قنارية",
+      "fr": "artichaut",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "orange",
+      "derja": "بردقان",
+      "fr": "orange",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "olive",
+      "derja": "زيتون",
+      "fr": "olivier / olive",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "prickly_pear",
+      "derja": "هندي",
+      "fr": "figue de Barbarie",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    },
+    {
+      "id": "deglet_nour",
+      "derja": "دقلة",
+      "fr": "dattes Deglet Nour",
+      "sowing_months": [],
+      "notes": "",
+      "status": "to_verify"
+    }
+  ]
+}

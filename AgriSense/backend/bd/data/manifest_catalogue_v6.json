@@ -1,0 +1,20 @@
+{
+  "source": "Catalogue cultures v6 (EcoCrop + FAO-56 + AquaCrop)",
+  "source_reference": "data/catalog/catalogue_cultures_v6.csv ; sources détaillées dans data/catalog/sources.csv",
+  "collected_at": "2026-11-15T17:51:39.336184+00:00",
+  "method": "Filtrage des cultures de noms_affichage_fr.json, colonnes du contrat bd/connection.py",
+  "dataset_version": "v6",
+  "units": {
+    "t_base": "degC",
+    "t_upper": "degC",
+    "gdd_maturite": "degC_day",
+    "kc_mid": "1",
+    "kc_ini": "1",
+    "kc_end": "1",
+    "zr_mm": "mm",
+    "ph_min": "pH",
+    "ph_max": "pH",
+    "ph_opt": "pH",
+    "duree_cycle": "day"
+  }
+}

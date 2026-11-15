@@ -1,0 +1,27 @@
+{
+  "_warning": "VALEURS INDICATIVES tirées de la littérature (voir 'source'). A valider par ton agronome avant tout usage réel. Les valeurs 'estimate' et 'example' ne sont PAS des données publiées.",
+  "units": {"litres_per_mm_per_ha": 10000, "m3_per_mm_per_ha": 10},
+  "roles": {"cereals": ["wheat"], "n_credit_legumes": ["fava"]},
+  "water_requirement_mm": {
+    "wheat": {"low": 450, "central": 550, "high": 650, "confidence": "sourced",
+              "source": "FAO Land & Water, crop information: wheat. Water requirement for high yields about 450-650 mm depending on climate and growing period. Central = midpoint."},
+    "fava":  {"low": 318, "central": 375, "high": 417, "confidence": "indicative",
+              "source": "FAO AGRIS record on faba bean water relations (Egypt, 1979-81): total consumptive use 31.85, 39.03 and 41.73 cm in the Delta, Middle and Upper Egypt. Egyptian conditions, NOT Tunisia. Central = mean."}
+  },
+  "nitrogen": {
+    "n_credit_next_cereal_kg_ha": {"low": 0, "central": 30, "high": 45, "confidence": "sourced",
+      "source": "Central: residual N benefit of faba bean = about 30 kg N/ha fertiliser saving for the following winter wheat (value cited in Tedone et al. 2022, Agronomy 13(1):105). High: mean faba N balance 40-46 kg N/ha in the same study. Low = 0 because the net N balance ranged from -21 to +41 kg N/ha in rainfed NE Spain (Reckling et al. 2024)."},
+    "reference_cereal_n_rate_kg_ha": {"central": 100, "confidence": "example",
+      "source": "EXAMPLE VALUE, not a recommendation. Replace by the farmer's real dose or by the agronomist's figure."},
+    "legume_own_n_rate_kg_ha": {"central": 0, "confidence": "assumption",
+      "source": "Assumption: no mineral N on faba bean (a small starter dose is sometimes used; ignored here)."}
+  },
+  "emissions": {
+    "n2o_ef1_direct": {"low": 0.003, "central": 0.01, "high": 0.017, "confidence": "sourced",
+      "source": "IPCC 2006 Tier 1 default: 1% of applied N is emitted as N2O-N. Tier 1 uncertainty about +/-70% (low/high)."},
+    "n2o_gwp100": {"central": 273, "confidence": "sourced", "source": "IPCC AR6 100-year GWP of N2O (AR5 uses 265)."},
+    "n2o_n_to_n2o": {"central": 1.5714, "confidence": "sourced", "source": "Molar mass ratio 44/28."},
+    "production_transport_kgco2e_per_kg_n": {"low": 1.9, "central": 3.8, "high": 5.7, "confidence": "estimate",
+      "source": "ESTIMATE, not a published factor: 5.765 kg CO2e/kg N (DEFRA combined field factor) x 38.8/58.6 (production share vs field share of fertiliser-supply-chain emissions, Menegat et al. 2022). Range = +/-50% (our assumption). Replace by a published production factor when available."}
+  }
+}

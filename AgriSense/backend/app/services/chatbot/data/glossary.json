@@ -1,0 +1,531 @@
+{
+  "terms": [
+    {
+      "correct": "السانية",
+      "meaning": "sania : jardin / parcelle irriguée",
+      "variants_safe": [
+        "السينيا"
+      ],
+      "variants_ambiguous": [
+        "الثانية",
+        "السنية"
+      ]
+    },
+    {
+      "correct": "شبش",
+      "meaning": "chnoua : quoi / qu'est-ce que",
+      "variants_safe": [
+        "شمش"
+      ],
+      "variants_ambiguous": []
+    },
+    {
+      "correct": "فول",
+      "meaning": "fève (culture)",
+      "variants_safe": [
+        "فرل"
+      ],
+      "variants_ambiguous": []
+    },
+    {
+      "correct": "نزرع",
+      "meaning": "je plante / je sème",
+      "variants_safe": [
+        "نزرغ"
+      ],
+      "variants_ambiguous": [],
+      "category": "sowing",
+      "examples": [
+        "انا كاني في منطقة سقوية وما عادش نجم نزرع زراعات سقوية",
+        "نحب نزرع شوية فقوس و بعد نوزعهم فقوسة فقوسة على أولاد الأحبة :D"
+      ],
+      "status": "kept_from_original"
+    },
+    {
+      "correct": "مياه",
+      "meaning": "eaux / eau",
+      "category": "water",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "راهو ثما دول تعدات بأزمة مجلة المياه اليوم",
+        "فيها اكثر من شركات متاع تعليم المياه المعدنية"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "بذور",
+      "meaning": "graines / semences",
+      "category": "sowing",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "هاني انتاج وهاني باش نخزن البذور ما يقلقناش",
+        "اللي يقول لك يلزمنا نحتفظو من توا على البذور"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "زراعات",
+      "meaning": "cultures (الزراعات الكبرى = grandes cultures)",
+      "category": "sowing",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "فما زراعات غير بشرية في العلفية ولو الولود",
+        "على خاطر معناها الكمي الزراعات اللي عندنا كل"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "نسقي",
+      "meaning": "j'arrose",
+      "category": "water",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "تنتمي الى مقر ما يمكن نسميه مقاربة نسقية",
+        "التفضيل المعلوماتي في تونس الي عندو طابع نسقي"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "حبوب",
+      "meaning": "céréales",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "كنا باش نحكيو حبوب تنحكيو حبوب غدوة على موسم الحصاد",
+        "خارطة الزراعات الحبوب الزراعات الكبرى الماشية الكل الكل في رهانات كبيرة ياسر"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "فلاح",
+      "meaning": "agriculteur",
+      "category": "farming",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "وكيقولو الفلاحة مش الفلاحة نتاع قبل معنتها نزرعو ونستناو رحمة ربي",
+        "من الفين وخمسطاش لتوا كمية المياه لي خذات الفلاحة المروية ما نقصدش"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "فلاحة",
+      "meaning": "agriculture",
+      "category": "farming",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "وكيقولو الفلاحة مش الفلاحة نتاع قبل معنتها نزرعو ونستناو رحمة ربي",
+        "من الفين وخمسطاش لتوا كمية المياه لي خذات الفلاحة المروية ما نقصدش"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "ماء",
+      "meaning": "eau",
+      "category": "water",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "كانك باش تعمل في زراعات اخرى ربما تستهلك برشا ماء",
+        "ويلزمك توجهو وتساندو فالمستقبل باش يتخلى عن الزراعات المستهلكة للماء"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "موسم",
+      "meaning": "saison / campagne agricole",
+      "category": "harvest",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "كنا باش نحكيو حبوب تنحكيو حبوب غدوة على موسم الحصاد",
+        "ما يساوي تقريبا البذور بالنسبة لم ما تخليش البذور عندك مشكل كبير في الموسم القادم"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "زراعة",
+      "meaning": "culture / agriculture",
+      "category": "sowing",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "خاطر المنتوج متاع مناول ما يكفيش للزراعة مش للإستهلاك",
+        "مادا بتقلص المساحات نتاع الزراعة الكبرى بدا من الوسط والجنوب"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "ري",
+      "meaning": "irrigation",
+      "category": "water",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "وإلا بالريه التكميلي الزراع الكمية الكبيرة نتاع القمح",
+        "في كل ازمة فرصة معنى لي جانا توا فرصة لمراجعة فكرية وثقافية طريق تعاملنا مع المياه"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "سماد",
+      "meaning": "engrais / fumier",
+      "category": "soil",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "فما القضية عدم سمادة وفما لخداع حكام ومستنفد لوش النيابة",
+        "سماد عضوي: فضلات الدجاج الغيني تنجم تستعمل كسماد عضوي للحدائق والمزارع"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "حصاد",
+      "meaning": "récolte / moisson",
+      "category": "harvest",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "كنا باش نحكيو حبوب تنحكيو حبوب غدوة على موسم الحصاد",
+        "الحصاد متواصل لليوم الصباح في برشا جهات من الجمهورية"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "جفاف",
+      "meaning": "sécheresse",
+      "category": "weather",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "في علاقة بالأضرار اللي فيها الجفاف في المساحات الزراع نتاع الزراعات الكبرى",
+        "من جملتها انها احنا في بلاد اللي فيها النظرة متاع المياه والجفاف المتواتر وكذا"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "حرارة",
+      "meaning": "chaleur / température",
+      "category": "weather",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "هذا خاطر إن germination تتأثر بعدة عوامل، كيما الحرارة، الرطوبة، حالة التربة، والخصائص الفردية للبذور"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "فلاحي",
+      "meaning": "agricole",
+      "category": "farming",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "في مياه الصرف الصحي ونطورو ونستثمرو باش نعملوه المياه المستعملة في الأنشطة الفلاحية"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "ساقية",
+      "meaning": "canal d'irrigation",
+      "category": "water",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "حتى يقف على الساقية وحتى ينجم يبيع في بلادو",
+        "باش تنتزع عقارات خاصة في توا حنا باش نعملو ساقية الزيت"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "تربة",
+      "meaning": "sol",
+      "category": "soil",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "مش نمشيو لمناطق نستعملو التربة متاحها نستعمل متاحها",
+        "هذا خاطر إن germination تتأثر بعدة عوامل، كيما الحرارة، الرطوبة، حالة التربة، والخصائص الفردية للبذور"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "زريعة",
+      "meaning": "semences / plants",
+      "category": "sowing",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "ومن توا نوفر لو الزريعة متاعو نستنى فيه لآخر وقت",
+        "راو نحكيو على الزراعات الكبرى فقدان في الزريعة متاعنا متاع العام الجاي"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "ملوحة",
+      "meaning": "salinité",
+      "category": "soil",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "معناها هاك لي ماري ولاو معناها مراعي ما عادش فما الا موجودة معناها الملوحة اكثر من خمسطاش لكرام"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "طماطم",
+      "meaning": "tomate",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "شكون من صفاقس يشريلي و يعطيني/و يخبيلي الزريعة :'( نحب عليها عندي سنين الطماطم هاذي",
+        "في الحين انو فما بلدان اخرى تقولك انا فما بعض الزراعات يا اخي معاش نزرعها لانها تتكلف لي برشا ما بينها الطماطم"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "ماشية",
+      "meaning": "bétail",
+      "category": "farming",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "خارطة الزراعات الحبوب الزراعات الكبرى الماشية الكل الكل في رهانات كبيرة ياسر"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "أمطار",
+      "meaning": "pluies",
+      "category": "weather",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "اللوز شاح والزيتون شاح السناح على خاطر مرة وش قلة الأمطار برك",
+        "خاصة كيبدا فما تحدي متاع متاع زرع جديد وقوي للحبوب اليوم الزياتين والأشجار المثمرة مثلا في حاجة ماسة للأمطار"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "زيتون",
+      "meaning": "olive / olivier",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "اللوز شاح والزيتون شاح السناح على خاطر مرة وش قلة الأمطار برك",
+        "في علاقة بالاربعة سنين جفاف لخرانيين والكلام على انو صابت زيت زيتون زادا باش تكون صابا"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "مزرعة",
+      "meaning": "ferme",
+      "category": "farming",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "العبارة هاذي تتقسم للكلمات التالية - \"ال,\" \"tracteur,\" \"من,\" \"ال,\" و\"المزرعة"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "tracteur",
+      "meaning": "tracteur",
+      "category": "tools",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "العبارة هاذي تتقسم للكلمات التالية - \"ال,\" \"tracteur,\" \"من,\" \"ال,\" و\"المزرعة"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "قطرة",
+      "meaning": "goutte (irrigation goutte-à-goutte)",
+      "category": "water",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "معناته انا معترض انا نعتبر اللي ثورة قاعدة الآن تسقي في العباد هاذوما قطرة قطرة"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "مطر",
+      "meaning": "pluie",
+      "category": "weather",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "باش وقت يصير نقص في مياه المطر وحنا كل اغلب المساحات مطرية على الاقل نعدل باك المساحات المروية"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "قمح",
+      "meaning": "blé",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "وإلا بالريه التكميلي الزراع الكمية الكبيرة نتاع القمح"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "شجر",
+      "meaning": "arbres",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "زيد شوية سماد بش تحافظ على صحة الشجرة وتمنع النباتات اللي تغطي الأرض من استهلاك برشة مغذيات مهمة"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "الما",
+      "meaning": "eau (derja)",
+      "category": "water",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "الما هذايا موجه للنهوض بالقطاع الإقتصادي التونسي ولا موجه باش نصدروه نزرعوه ونصدروه"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "غراسات",
+      "meaning": "plantations d'arbres",
+      "category": "sowing",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "لك واضح انو في الجنوب فما اشكاليات علاش مثلا اشكاليات قانونية مرتبطة بملف الاراضي الاشتراكية في عرقلة تطور غراسات النخيل"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "أشجار",
+      "meaning": "arbres",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "خاصة كيبدا فما تحدي متاع متاع زرع جديد وقوي للحبوب اليوم الزياتين والأشجار المثمرة مثلا في حاجة ماسة للأمطار"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "شعير",
+      "meaning": "orge",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "مش اه بذور ممتازة ومتين الف شعير"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "نزرعو",
+      "meaning": "nous semons",
+      "category": "sowing",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "ايجا نزرعو المرة هاذي نستعملو بذورنا ثم بعد الصعبة تعطينا",
+        "وكيقولو الفلاحة مش الفلاحة نتاع قبل معنتها نزرعو ونستناو رحمة ربي"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "محاصيل",
+      "meaning": "récoltes / cultures",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "المشكلة: WK: إي، نحب نبني واحد آخر - باش نشفط الماء ونسقي - باش نسقي المحاصيل",
+        "الجملة الإسبانية تقول: \"إي، نحب نبني واحد آخر - باش نشفط الماء ونسقي - باش نسقي المحاصيل"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "زرع",
+      "meaning": "semer / semis",
+      "category": "sowing",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "ما نعرفش انا حمدي احكيلي زرعة باش تفصل الملح",
+        "خاصة كيبدا فما تحدي متاع متاع زرع جديد وقوي للحبوب اليوم الزياتين والأشجار المثمرة مثلا في حاجة ماسة للأمطار"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "مناخية",
+      "meaning": "climatique",
+      "category": "weather",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "انو التغيرات المناخية وعندك ازمة مياه ازمة المياه هاذي انو البلاد استثمرت في فترة ما متاحها",
+        "يعني غدوة بش تلقى روحك امام فقر مائي مدقع معنتها كبير ياسر واش تلقى روحك امام تغيرات مناخية عاصفة عليك"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "فقر مائي",
+      "meaning": "pénurie d'eau",
+      "category": "water",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "يعني غدوة بش تلقى روحك امام فقر مائي مدقع معنتها كبير ياسر واش تلقى روحك امام تغيرات مناخية عاصفة عليك"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "غابة",
+      "meaning": "forêt",
+      "category": "farming",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "نهار تل تجي يقول لك لا غير مرخص لك انتي باش تبني راهي متاع نتاعنا مياه ولا منطقة غابة ولا الى غير ذلك"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "فلاحية",
+      "meaning": "agricole (féminin / pluriel)",
+      "category": "farming",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "في مياه الصرف الصحي ونطورو ونستثمرو باش نعملوه المياه المستعملة في الأنشطة الفلاحية"
+      ],
+      "status": "from_dataset_unverified"
+    },
+    {
+      "correct": "لوز",
+      "meaning": "amande / amandier",
+      "category": "crop",
+      "variants_safe": [],
+      "variants_ambiguous": [],
+      "examples": [
+        "اللوز شاح والزيتون شاح السنا على خاطر مرة وش قلة الأمطار برك"
+      ],
+      "status": "from_dataset_unverified"
+    }
+  ]
+}

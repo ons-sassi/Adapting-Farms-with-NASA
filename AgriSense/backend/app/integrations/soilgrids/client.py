@@ -1,0 +1,1 @@
+"""ISRIC SoilGrids integration client."""
